@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <Folder Include="TagHelpers\" />
-    <Folder Include="ViewComponents\" />
     <Folder Include="ViewModels\" />
     <Folder Include="ViewModels\AccountViewModels\" />
     <Folder Include="ViewModels\ManageViewModels\" />
