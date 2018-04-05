@@ -26,5 +26,6 @@
     <Folder Include="ViewModels\" />
     <Folder Include="ViewModels\AccountViewModels\" />
     <Folder Include="ViewModels\ManageViewModels\" />
+    <Folder Include="wwwroot\lib\qrcodejs\" />
   </ItemGroup>
 </Project>
